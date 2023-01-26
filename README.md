@@ -14,6 +14,8 @@ You just need to download the raw file from this repository or clone this on you
 ## Requirements
 `Python 3.10+` is used to develop the code but there are not any specific libraries, packages and classes called when using the code. The only package used is the `random` which is initially installed when you install the python on your system.
 
+As long as the user works with a python code, the game can be played on any operatingn system, like linux, windows, etc.
+
 ## Development
 The functions developed in this code can be edited to be used in TKinter or any other GUI system. The current code only needs a terminal to interact with the user.
 
@@ -32,7 +34,7 @@ If you need help and hints in each round, you can have it by typing `Y`, otherwi
 ### Number:
 After setting all previous steps, the game will be repeated as many rounds you specified and asks you to type and enter your guesses. After you guess and type one number, press enter to input the next number.
 
-### Reports:
+## Reports
 This is a sample report when you run the code and the guess is wrong. You will see how many round are remaining for you have to guess more numbers, number of correct guesses, number of correct positions of the numbers and wrong guesses. The hint part also specifies whether the guess is correct and its position or not. Obviously the hint makes the guess so much easier for the user.
 
 ```
